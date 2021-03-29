@@ -179,163 +179,99 @@ Profissional
 
 ## Linguagens de Programação
 
-
-PHP4
-
-PHP5
-
-PHP7
-
-Shell Script
-
-Visual Basic (VB)
-
-C/C++
-
-Javascript
-
-Java
-
-SQL
-
-T-SQL
-
-PowerShell
-
+- PHP4
+- PHP5
+- PHP7
+- Shell Script
+- Visual Basic (VB)
+- C/C++
+- Javascript
+- Java
+- SQL
+- T-SQL
+- PowerShell
 
 
 ## Banco de dados
 
-MySQL5
-
-MariaDB
-
-PostgreSQL
-
-SQL Server
-
+- MySQL5
+- MariaDB
+- PostgreSQL
+- SQL Server
 
 
 ## Tecnologias para Internet
 
-Javascript
-
-jQuery
-
-jQuery UI
-
-Bootstrap
-
-HTML5
-
-CSS3
-
-LESS
-
-SCSS
-
-Expressões Regulares
-
-XML
-
-JSON
-
-Webservices
-
+- Javascript
+- jQuery
+- jQuery UI
+- Bootstrap
+- HTML5
+- CSS3
+- LESS
+- SCSS
+- Expressões Regulares
+- XML
+- JSON
+- Webservices
 
 ## Serviços
 
-IIS
-
-Apache2
-
-Nginx
-
-Proftpd Server
-
-Secure Shell
+- IIS
+- Apache2
+- Nginx
+- Proftpd Server
+- Secure Shell
 
 
 ## Sistemas Operacionais
 
-Windows 98
-
-Windows XP
-
-Windows 8
-
-Windows Vista
-
-Windows Server 2008
-
-Windows Server 2012
-
-Linux Debian
-
-Linux Ubuntu
-
-Linux CentOS
-
-Linux Kurumin
-
-Linux Kubuntu
-
-Slackware
-
-Fedora
-
+- Windows 98
+- Windows XP
+- Windows 8
+- Windows Vista
+- Windows Server 2008
+- Windows Server 2012
+- Linux Debian
+- Linux Ubuntu
+- Linux CentOS
+- Linux Kurumin
+- Linux Kubuntu
+- Slackware
+- Fedora
 
 
 ## Editores de Código Fonte que domino
 
-VSCode
-
-NetBeans
-
-Notepad++
-
-Notepadqq
-
-Nano
-
-Kate
-
-Sublime
-
-VI
-
-VIM
+- VSCode
+- NetBeans
+- Notepad++
+- Notepadqq
+- Nano
+- Kate
+- Sublime
+- VI
+- VIM
 
 
 ## Outras coisas que domino
 
-RM - Totvs
+- RM - Totvs
+- ITIL
+- Joomla!
+- MySQL Workbench
+- DBeaver
+- PHPMyAdmin
+- Design Patterns
+- GIT
+- SVN
+- Active Directory
+- Arduino
+- VMWare
 
-ITIL
-
-Joomla!
-
-MySQL Workbench
-
-DBeaver
-
-PHPMyAdmin
-
-Design Patterns
-
-GIT
-
-SVN
-
-Active Directory
-
-Arduino
-
-VMWare
 
 
 ### Contatos
-
 
 #### E-mail
 
