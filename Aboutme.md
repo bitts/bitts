@@ -158,14 +158,14 @@ Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. N
 
 #### SUPORTE NÍVEL 2 - ITIL
 
-**Alvo**:
+- **Alvo**:
 Os serviços de nível 2 destinam-se a toda a camada de infraestrutura de TI composta por tecnologias, hardware e software diversos.
 Redes, Servidores, Firewall, Backup, Antivírus, Sistemas, Fornecedores, SLAs, Equipamentos, etc
 
-**Propósito**:
+- **Propósito**:
 Garantir total disponibilidade, segurança, integridade e evolução da infraestrutura de TI que atende aos negócios de sua empresa, evitando diversos prejuízos.
 
-**SLA**:
+- **SLA**:
 O SLA proativo garante a segurança e a evolução tecnológica da infraestrutura de TI através de visitas de segundo nível com a frequência mensal particular à sua empresa, enquanto o SLA reativo garante o tempo máximo para atendimento e solução dos eventuais incidentes e requisições de mudança.
 
 
