@@ -1,7 +1,7 @@
 WebCurrículo
 ============
 
-[Marcelo Valvassori Bittencourt](#)
+[Marcelo Valvassori Bittencourt](#) | <marcelo.valvassori@gmail.com>
 
 
 ------------
@@ -12,8 +12,22 @@ WebCurrículo
     -   [E ate onde vai o toco do coelho?](#e-ate-onde-vai-o-toco-do-coelho)
 -   [Redes Sociais](#redes-sociais)
 -   [Experência Profissional](#profissional)
+    -   [O que já fiz](#o-que-j%C3%A1-fiz)
+    -   [Exército Brasileiro](#ex%C3%A9rcito-brasileiro)
+    -   [Suporte nível 2 - ITIL](#suporte-n%C3%ADvel-2---itil)
+    -   [Outras atividades](#outras-atividades-comuns)
 -   [Habilidade/Skills](#skills)
+    -   [Linguagens de Programação](#linguagens-de-programa%C3%A7%C3%A3o)
+    -   [Banco de dados](#banco-de-dados)
+    -   [Tecnologias para Internet](#tecnologias-para-internet)
+    -   [Serviços](#servi%C3%A7os)
+    -   [Sistemas Operacionais](#sistemas-operacionais)
+    -   [Editores de código-fonte que domino](#editores-de-c%C3%B3digo-fonte-que-domino)
+    -   [Outras coisas que domino](#outras-coisas-que-domino)
 -   [Contatos](#contact)
+    -   [Email](#e-mail)
+    -   [Telefone](#telefone)
+    -   [Skype](#skype)
 
 -------
 
