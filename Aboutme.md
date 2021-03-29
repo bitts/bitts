@@ -103,7 +103,7 @@ Profissional
         - sistema academico de interação professor X aluno
         - sistema de catalogação de itens de um museu
 
-    lista todos academicos
+    
     - Trabalhei em diversas instituições educacionais de enino médio, fundamental, superior, técnico, pós-graduações, mestrados 
     e ate mesmo fundações! entre elas algumas das de maior destaque.
         - Fapas Faculdade Palotina
@@ -112,13 +112,13 @@ Profissional
         - FANDE
         - SOBRESP
 
-        lista todos os sistema de cobranca
+        
     - com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência 
     de no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
         - Riachuelo
         - CDL
 
-        lista todos os serviços autonomos
+        
     - como Profissional autonomo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, 
         utilizando alguns de meus conhecimentos contabeis e diversos de meus conhecimentos sociais e de tecnologia.
     - Essas são algumas das coisas que consigo lembrar me ajudaram muito em minha formação:
@@ -133,7 +133,7 @@ Profissional
         - cursos de jQuery UI
         - cursos de MySQL
 
-        lista todos serviços como militar
+        
         Exercendo o Cargo de Adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° - CTA 
         (Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Regial Militar, na Rua dos Andradas, 562, Centro Histórico, Porto Alegre - Rio Grande 
         do Sul e é o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
