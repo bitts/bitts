@@ -15,8 +15,6 @@ WebCurriculo
 -   [Habilidade/Skills](#skills)
 -   [Contatos](#contact)
 
-
-Sobre mim
 -------
 
 ### Sobre mim
