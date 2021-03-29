@@ -175,7 +175,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 ### Skills
 
 
-## Linguagens de Programação
+#### Linguagens de Programação
 
 - PHP4
 - PHP5
@@ -190,7 +190,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - PowerShell
 
 
-## Banco de dados
+#### Banco de dados
 
 - MySQL5
 - MariaDB
@@ -198,7 +198,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - SQL Server
 
 
-## Tecnologias para Internet
+#### Tecnologias para Internet
 
 - Javascript
 - jQuery
@@ -213,7 +213,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - JSON
 - Webservices
 
-## Serviços
+#### Serviços
 
 - IIS
 - Apache2
@@ -222,7 +222,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - Secure Shell
 
 
-## Sistemas Operacionais
+#### Sistemas Operacionais
 
 - Windows 98
 - Windows XP
@@ -239,7 +239,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - Fedora
 
 
-## Editores de Código Fonte que domino
+#### Editores de Código Fonte que domino
 
 - VSCode
 - NetBeans
@@ -252,7 +252,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - VIM
 
 
-## Outras coisas que domino
+#### Outras coisas que domino
 
 - RM - Totvs
 - ITIL
