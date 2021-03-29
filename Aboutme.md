@@ -113,35 +113,36 @@ as instituições de ensino a patamares nunca atingidos antes.
         - SOBRESP
 
         
-- com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência de no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
+- Com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência de no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
 
         - Riachuelo
         - CDL
 
         
-- como Profissional autonomo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, utilizando alguns de meus conhecimentos contabeis e diversos de meus conhecimentos sociais e de tecnologia.
+- Como profissional autonômo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, utilizando alguns de meus conhecimentos contábeis e diversos de meus conhecimentos sociais e de tecnologia.
 
         - Essas são algumas das coisas que consigo lembrar me ajudaram muito em minha formação:
         - Sistema ancoradouro
-        - imobiliaria gallina
-        - imobiliaria terrazzo
+        - Imobiliária Gallina
+        - Imobiliária Terrazzo
         - CDL Cobranças
         - Riachelo Cobranças 
-        - consultoria técnica
-        - cursos de PHP
-        - cursos de jQuery
-        - cursos de jQuery UI
-        - cursos de MySQL
+        - Consultoria Técnica
+        - Cursos de PHP
+        - Cursos de jQuery
+        - Cursos de jQuery UI
+        - Cursos de MySQL
 
-        
-Exercendo o Cargo de Adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° - CTA (Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Regial Militar, na Rua dos Andradas, 562, Centro Histórico, Porto Alegre - Rio Grande do Sul e é o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
 
-Subordinado ao Centro Integrado de Telemática do Exército (CITEx), provê serviços de TI para as Organizações Militares (OMs) de sua área, tais como: 
+#### Exército Brasileiro        
+- Ocupando a patente de 2º Tenente na força terrestre do Brasil, Exercito Brasileiro, exercendo o cargo de adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° CTA (1ª Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Região Militar, na Rua dos Andradas, 562, bairro Centro Histórico, cidade de Porto Alegre no estado do Rio Grande do Sul, sendo o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
+
+- Subordinado ao Centro Integrado de Telemática do Exército (CITEx), provê serviços de TI para as Organizações Militares (OMs) de sua área, tais como: 
 Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. Neste incrível centro desempenho o papel de colaborar com as mais de 115 OMs espalhadas pela estado, pelas quais somos responsáveis por prover os mais diversos serviços de tecnologia e com os meus conhecimentos adquiridos ao longo de diversos anos de muita prática e estudos, chegar as melhores soluções para a constante evolução tecnologica do País.
 
 - Como Analista de Infraestrutura dentro as forças armadas desempenhei o papel de suporte nível 2 do ITIL onde exatamente fazia isso aqui:
 
-SUPORTE NÍVEL 2 - ITIL
+#### SUPORTE NÍVEL 2 - ITIL
 
 **Alvo**:
 Os serviços de nível 2 destinam-se a toda a camada de infraestrutura de TI composta por tecnologias, hardware e software diversos.
@@ -153,7 +154,8 @@ Garantir total disponibilidade, segurança, integridade e evolução da infraest
 **SLA**:
 O SLA proativo garante a segurança e a evolução tecnológica da infraestrutura de TI através de visitas de segundo nível com a frequência mensal particular à sua empresa, enquanto o SLA reativo garante o tempo máximo para atendimento e solução dos eventuais incidentes e requisições de mudança.
 
-Outras atividades Comuns:
+
+#### Outras atividades Comuns:
 
 - Arquitetura de toda Infraestrutura da TI;
 - Atendimento e Solução de Incidentes;
