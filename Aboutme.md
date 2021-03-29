@@ -1,4 +1,4 @@
-WebCurriculo
+WebCurrículo
 ============
 
 [Marcelo Valvassori Bittencourt](#)
