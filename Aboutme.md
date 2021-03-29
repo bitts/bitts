@@ -80,16 +80,16 @@ Profissional
 
 ### O que já fiz
 
-    - A Sociedade Vicente Pallotti é uma empresa privada fundada em 1909, com cede em Santa Maria - Rio Grande do Sul, 
-    com mais de 18 estabelecimentos, entre filiais, sucursais, agências e outros, empregando mais de 900 pessoas. 
-    Entre os seus principais ramos de negócio estão industrias, educação e assistência social. 
-    Neste lugar tive a oportunidade de trabalhar a fundo em seu ramo educacional, participando da criação e implantação 
-    de sistemas educacionais, ministrando treinamentos, particpando de decições que impactaram diretamente e indiretamente 
-    a vida acadêmica e estrutural de todos os seus colaboradores e estudantes, construindo com muita determinação e 
-    dedicação um mundo tecnolôgico para diminuir distâncias entre professores, alunos e técnicos administrativos, elevando 
-    as instituições de ensino a patamares nunca atingidos antes.
+- A Sociedade Vicente Pallotti é uma empresa privada fundada em 1909, com cede em Santa Maria - Rio Grande do Sul, 
+com mais de 18 estabelecimentos, entre filiais, sucursais, agências e outros, empregando mais de 900 pessoas. 
+Entre os seus principais ramos de negócio estão industrias, educação e assistência social. 
+Neste lugar tive a oportunidade de trabalhar a fundo em seu ramo educacional, participando da criação e implantação 
+de sistemas educacionais, ministrando treinamentos, particpando de decições que impactaram diretamente e indiretamente 
+a vida acadêmica e estrutural de todos os seus colaboradores e estudantes, construindo com muita determinação e 
+dedicação um mundo tecnolôgico para diminuir distâncias entre professores, alunos e técnicos administrativos, elevando 
+as instituições de ensino a patamares nunca atingidos antes.
 
-    Atividade: Analista de Sistemas
+        Atividade: Analista de Sistemas
         - sistemas inscrições em cursos de posgraduações
         - sistema de gerenciamento de processos seletivos
         - sistema de divulgações de resultados de simulados
@@ -104,8 +104,8 @@ Profissional
         - sistema de catalogação de itens de um museu
 
     
-    - Trabalhei em diversas instituições educacionais de enino médio, fundamental, superior, técnico, pós-graduações, mestrados 
-    e ate mesmo fundações! entre elas algumas das de maior destaque.
+- Trabalhei em diversas instituições educacionais de enino médio, fundamental, superior, técnico, pós-graduações, mestrados e ate mesmo fundações! entre elas algumas das de maior destaque.
+
         - Fapas Faculdade Palotina
         - Colégio Antonio Alves Ramos
         - Colégio Pallotti
@@ -113,15 +113,15 @@ Profissional
         - SOBRESP
 
         
-    - com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência 
-    de no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
+- com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência de no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
+
         - Riachuelo
         - CDL
 
         
-    - como Profissional autonomo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, 
-        utilizando alguns de meus conhecimentos contabeis e diversos de meus conhecimentos sociais e de tecnologia.
-    - Essas são algumas das coisas que consigo lembrar me ajudaram muito em minha formação:
+- como Profissional autonomo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, utilizando alguns de meus conhecimentos contabeis e diversos de meus conhecimentos sociais e de tecnologia.
+
+        - Essas são algumas das coisas que consigo lembrar me ajudaram muito em minha formação:
         - Sistema ancoradouro
         - imobiliaria gallina
         - imobiliaria terrazzo
@@ -134,43 +134,39 @@ Profissional
         - cursos de MySQL
 
         
-        Exercendo o Cargo de Adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° - CTA 
-        (Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Regial Militar, na Rua dos Andradas, 562, Centro Histórico, Porto Alegre - Rio Grande 
-        do Sul e é o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
-        Subordinado ao Centro Integrado de Telemática do Exército (CITEx), provê serviços de TI para as Organizações Militares (OMs) de sua área, tais como: 
-        Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. Neste incrível centro desempenho o papel de colaborar com as mais de 115 OMs 
-        espalhadas pela estado, pelas quais somos responsáveis por prover os mais diversos serviços de tecnologia e com os meus conhecimentos adquiridos ao longo 
-        de diversos anos de muita prática e estudos, chegar as melhores soluções para a constante evolução tecnologica do País.
+Exercendo o Cargo de Adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° - CTA (Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Regial Militar, na Rua dos Andradas, 562, Centro Histórico, Porto Alegre - Rio Grande do Sul e é o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
 
-        - Como Analista de Infraestrutura dentro as forças armadas desempenhei o papel de suporte nível 2 do ITIL onde exatamente fazia isso aqui:
-        SUPORTE NÍVEL 2 - ITIL
+Subordinado ao Centro Integrado de Telemática do Exército (CITEx), provê serviços de TI para as Organizações Militares (OMs) de sua área, tais como: 
+Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. Neste incrível centro desempenho o papel de colaborar com as mais de 115 OMs espalhadas pela estado, pelas quais somos responsáveis por prover os mais diversos serviços de tecnologia e com os meus conhecimentos adquiridos ao longo de diversos anos de muita prática e estudos, chegar as melhores soluções para a constante evolução tecnologica do País.
 
-        Alvo:
-        Os serviços de nível 2 destinam-se a toda a camada de infraestrutura de TI composta por tecnologias, hardware e software diversos.
-        Redes, Servidores, Firewall, Backup, Antivírus, Sistemas, Fornecedores, SLAs, Equipamentos, etc
+- Como Analista de Infraestrutura dentro as forças armadas desempenhei o papel de suporte nível 2 do ITIL onde exatamente fazia isso aqui:
 
-        Propósito:
-        Garantir total disponibilidade, segurança, integridade e evolução da infraestrutura de TI que atende aos negócios de sua empresa, 
-        evitando diversos prejuízos.
+SUPORTE NÍVEL 2 - ITIL
 
-        SLA:
-        O SLA proativo garante a segurança e a evolução tecnológica da infraestrutura de TI através de visitas de segundo nível com a frequência 
-        mensal particular à sua empresa, enquanto o SLA reativo garante o tempo máximo para atendimento e solução dos eventuais incidentes e 
-        requisições de mudança.
+**Alvo**:
+Os serviços de nível 2 destinam-se a toda a camada de infraestrutura de TI composta por tecnologias, hardware e software diversos.
+Redes, Servidores, Firewall, Backup, Antivírus, Sistemas, Fornecedores, SLAs, Equipamentos, etc
 
-        Atividades Comuns:
-        Arquitetura de toda Infraestrutura da TI;
-        Atendimento e Solução de Incidentes;
-        Integração de Projetos e Mudanças;
-        Análise e Pesquisa dos Problemas;
-        Análise e Suporte à Capacidade;
-        Análise e Suporte à Continuidade e Disponibilidade;
-        Análise e Suporte à Segurança;
-        Análise Periódica dos Serviços de Infraestrutura da TI, exemplo:
-        Backup, Firewall, Antivírus, Logon, Arquivos, Acessos, E-mail, Internet, Fileserver, Rede Local (LAN), Rede (WAN), Servidores Físicos, 
-        Virtuais, Datacenters, Servidores de Aplicação, Servidores de Banco de Dados, Impressão, etc.
-        Relato dos Serviços de Suporte, Consultoria, Integração ou Auditoria.
-                                
+**Propósito**:
+Garantir total disponibilidade, segurança, integridade e evolução da infraestrutura de TI que atende aos negócios de sua empresa, evitando diversos prejuízos.
+
+**SLA**:
+O SLA proativo garante a segurança e a evolução tecnológica da infraestrutura de TI através de visitas de segundo nível com a frequência mensal particular à sua empresa, enquanto o SLA reativo garante o tempo máximo para atendimento e solução dos eventuais incidentes e requisições de mudança.
+
+Outras atividades Comuns:
+
+- Arquitetura de toda Infraestrutura da TI;
+- Atendimento e Solução de Incidentes;
+- Integração de Projetos e Mudanças;
+- Análise e Pesquisa dos Problemas;
+- Análise e Suporte à Capacidade;
+- Análise e Suporte à Continuidade e Disponibilidade;
+- Análise e Suporte à Segurança;
+- Análise Periódica dos Serviços de Infraestrutura da TI, exemplo:
+- Backup, Firewall, Antivírus, Logon, Arquivos, Acessos, E-mail, Internet, Fileserver, Rede Local (LAN), Rede (WAN), Servidores Físicos, 
+- Virtuais, Datacenters, Servidores de Aplicação, Servidores de Banco de Dados, Impressão, etc.
+- Relato dos Serviços de Suporte, Consultoria, Integração ou Auditoria.
+
                                 
                                 
 
