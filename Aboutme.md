@@ -336,22 +336,18 @@ VMWare
 
 ### Contatos
 
-[**](mailto:marcelo.valvassori@gmail.com)
 
 #### E-mail
 
-marcelo.valvassori@gmail.com
+[marcelo.valvassori@gmail.com](mailto:marcelo.valvassori@gmail.com)
 
-**
 
 #### Telefone
 
 +55 (55) 98142-0885
 
-[**](skype:bitts@passport.com?call)
 
 #### Skype
 
-bitts@passport.com
+[bitts@passport.com](skype:bitts@passport.com?call)
 
-Copyright © 2011 - Todos os direitos reservados
