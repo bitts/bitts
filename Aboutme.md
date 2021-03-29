@@ -82,7 +82,7 @@ Neste universo aprendi muitas coisas legais de banco de dados, de estruturas de 
 -   [Github](https://github.com/bitts)
 -   [Pintrest](https://br.pinterest.com/marcelobitts/)
 -   [Linkedin](https://www.linkedin.com/in/marcelo-valvassori-bittencourt-30719639)
--   [Instagran](https://www.instagram.com/marcelo.valvassori/)
+-   [Instagran](https://www.instagram.com/marcelo.valvassori.bittencourt/)
 -   [Stackoverflow](http://stackoverflow.com/users/6535200/bitts?tab=profile)
 -   [Tumblr](http://marcelovalvassori.tumblr.com/)
 -   [Codepen](http://codepen.io/bitts)
