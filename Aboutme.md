@@ -9,7 +9,7 @@ WebCurrículo
 -   [Sobre mim](#sobre-mim-1)
     -   [Como diabos vim para neste universo?](#como-diabos-vim-para-neste-universo)
     -   [Mas nem tudo são flores...](#mas-nem-tudo-são-flores)
-    -   [E ate onde vai o toco do coelho?](#e-ate-onde-vai-o-toco-do-coelho)
+    -   [E ate onde vai o toca do coelho?](#e-ate-onde-vai-o-toca-do-coelho)
 -   [Redes Sociais](#redes-sociais)
 -   [Experência Profissional](#profissional)
     -   [O que já fiz](#o-que-j%C3%A1-fiz)
@@ -63,7 +63,7 @@ Ingressei em um curso de Sistemas de Informações e descrobri que aquele mundo 
 
 Em pouco tempo aquilo fazia parte de mim... e o resto é história.
 
-#### E ate onde vai o toco do coelho?
+#### E ate onde vai o toca do coelho?
 
 Quando fiz uma materia entitulada "Programação para Web" as coisas realmente ficaram legais na faculdade, e era uma disciplina optativa, fora do currículo regular, não obrigatória mas que achei muito muito legal e peguei com facilidade, isso era o tal do PHP4!
 
