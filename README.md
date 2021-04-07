@@ -2,7 +2,6 @@
 
 #[Curriculum](https://github.com/bitts/bitts/blob/main/Aboutme.md)
 
-
 Eu sou natural de Resende, localizado no estado do Rio de Janeiro - Brasil, mas recebi o título de Bacharel em Analise de Sistemas pelo Centro Universitário Franciscano (atualmente UFN - Universidede Franciscana) localizado em Santa Maria, no caração do estado do Rio Grande do Sul. 
 
 Atualmente sou 2º Tenente do Quadro de Oficiais Técnicos Temporário do Exército Brasileiro e desempenho a função de Adjunto a Seção de Gerenciamento das Operações, onde atuo em suporte nível 2 (ITIL-Ex) e fiscalização técnica de contratos de telecomunicações, no 1º Centro de Telemática de Área - 1°CTA, localizado no Quartel General do Comando Militar do Sul em Porto Alegre - Rio Grande do Sul.
@@ -51,6 +50,7 @@ Eu valorizo o feedback, então fique à vontade para solicitar ou dar feedback d
 
 Este README é um trabalho em andamento e continuarei a atualizá-lo à medida que aprendo coisas novas.
 
+![Total de visualizações](https://komarev.com/ghpvc/?username=bitts&color=green)
 <!--
 **bitts/bitts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
