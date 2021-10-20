@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 ### About Me 👋
 
 #[Curriculum](https://github.com/bitts/bitts/blob/main/Aboutme.md)
+
 I am from Resende, located in the state of Rio de Janeiro - Brazil, but I received a Bachelor's degree in Systems Analysis from Centro Universitário Franciscano (currently UFN - Universidede Franciscana) located in Santa Maria, in the heart of the state of Rio Grande do Sul.
 
 I am currently 2º Lieutenant of the Temporary Technical Officers of the Brazilian Army and I perform the role of Adjunct to the Operations Management Section, where I work in level 2 support (ITIL-Ex) and technical supervision of telecommunications contracts, at the 1st Telematics Center Area - 1º CTA, located at the Headquarters of the Southern Military Command in Porto Alegre - Rio Grande do Sul.
