@@ -233,11 +233,12 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 
 #### Serviços
 
-- IIS
-- Apache2
-- Nginx
-- Proftpd Server
-- Secure Shell
+- [IIS](https://www.iis.net/)
+- [Apache2](http://apache.org/)
+- [Nginx](https://nginx.org/)
+- [Proftpd Server](http://www.proftpd.org/)
+- [Veem Backup](https://www.veeam.com)
+- [Active Directory](https://docs.microsoft.com/en-us/windows/win32/ad/active-directory-domain-services-architecture)
 
 
 #### Sistemas Operacionais
@@ -268,23 +269,22 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - [Sublime](https://www.sublimetext.com/)
 - VI
 - [VIM](https://github.com/vim/vim)
-- 
 
 
 #### Outras coisas que domino
 
-- RM - Totvs
+- [Totvs Educacional](https://produtos.totvs.com/produto/totvs-educacional/)
 - ITIL
 - [Joomla!](https://github.com/bitts/PagTesouro)
-- MySQL Workbench
-- DBeaver
-- PHPMyAdmin
+- [MySQL Workbench](https://github.com/mysql/mysql-workbench/releases)
+- [DBeaver](http://freecode.com/projects/dbeaver)
+- [PHPMyAdmin](https://www.phpmyadmin.net/)
 - Design Patterns
 - GIT
 - SVN
-- Active Directory
 - Arduino
 - VMWare
+- Secure Shell
 - [Zabbix](https://github.com/bitts/zabbix_joomla)
 
 
