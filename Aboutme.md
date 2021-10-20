@@ -147,6 +147,7 @@ as instituições de ensino a patamares nunca atingidos antes.
         - Cursos de jQuery
         - Cursos de jQuery UI
         - Cursos de MySQL
+        - Cursos de Transact-SQL
 
 
 #### Exército Brasileiro        
@@ -183,7 +184,8 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - Backup, Firewall, Antivírus, Logon, Arquivos, Acessos, E-mail, Internet, Fileserver, Rede Local (LAN), Rede (WAN), Servidores Físicos, 
 - Virtuais, Datacenters, Servidores de Aplicação, Servidores de Banco de Dados, Impressão, etc.
 - Relato dos Serviços de Suporte, Consultoria, Integração ou Auditoria.
-
+- Monitoramento Zabbix - Gerenciamento / Configuração / Criação de Script / Relatórios
+- Monitoramento e Visualização de métricas Granafa - Gerenciamento / Criação / Configuração / Integração
                                 
                                 
 
@@ -195,7 +197,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - PHP4
 - PHP5
 - PHP7
-- Shell Script
+- [Shell Script](https://github.com/bitts/moodle-backup)
 - Visual Basic (VB)
 - C/C++
 - Javascript
@@ -207,7 +209,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 
 #### Banco de dados
 
-- MySQL5
+- MySQL
 - MariaDB
 - PostgreSQL
 - SQL Server
@@ -227,6 +229,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - XML
 - JSON
 - Webservices
+- API
 
 #### Serviços
 
@@ -254,17 +257,18 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - Fedora
 
 
-#### Editores de Código Fonte que domino
+#### Editores/IDE de Código Fonte que domino
 
 - VSCode
 - NetBeans
-- Notepad++
+- [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
 - Notepadqq
 - Nano
 - Kate
-- Sublime
+- [Sublime](https://www.sublimetext.com/)
 - VI
-- VIM
+- [VIM](https://github.com/vim/vim)
+- 
 
 
 #### Outras coisas que domino
