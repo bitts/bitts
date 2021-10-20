@@ -201,8 +201,8 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - Javascript
 - Java
 - SQL
-- T-SQL
-- PowerShell
+- [T-SQL](https://github.com/bitts/Consultas-SQL)
+- [PowerShell](https://github.com/bitts/PowerOffVMs-vCenter)
 
 
 #### Banco de dados
@@ -271,7 +271,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 
 - RM - Totvs
 - ITIL
-- Joomla!
+- [Joomla!](https://github.com/bitts/PagTesouro)
 - MySQL Workbench
 - DBeaver
 - PHPMyAdmin
@@ -281,7 +281,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - Active Directory
 - Arduino
 - VMWare
-
+- [Zabbix](https://github.com/bitts/zabbix_joomla)
 
 
 ### Contatos
@@ -291,7 +291,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 [marcelo.valvassori@gmail.com](mailto:marcelo.valvassori@gmail.com)
 
 
-#### Telefone
+#### Telefone / Whatsapp
 
 +55 (55) 98142-0885
 
