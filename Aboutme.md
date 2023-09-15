@@ -35,23 +35,23 @@ WebCurrículo
 
 #### Como diabos vim para neste universo?
 
-Nos primordios da era computacional do Brasil em meados dos anos 90 com o final da reserva de mercado, a importação de computadores voltou a ser permitida no Brasil, e eu tava!
+Nos primórdios da era computacional do Brasil em meados dos anos 90 e com o final da reserva de mercado, a importação de computadores voltou a ser permitida no Brasil, e eu estava lá!
 
-Rapidamente, os computadores de 8 bits e os XT’s de fabricação nacional foram substituídos por micros 386 e 486, e muita gente teve a chance de comprar o primeiro micro, inclusive minha familia!
+Rapidamente, os computadores de 8 bits e os XT’s de fabricação nacional foram substituídos por micros 386, e muita gente teve a chance de comprar o primeiro micro, inclusive minha família.
 
 Logo logo venho a era 486, fazendo com que eles fossem vendidos em enorme quantidade aqui no Brasil.
 
 Enfim, depois disso foram os Pentium 4... e bummm!
 
-Já era tarde para mim, de alguma forma aquelas maquinas haviam se tornado parte do que eu queria fazer para resto de minha vida, usa-las para criar coisas!!! CRIAR COISAS!!!
+Já era tarde para mim, de alguma forma aquelas maquinas haviam se tornado parte do que eu queria fazer para resto de minha vida, usá-las para tornar palpável e utilizável ideias e conceito abstratos possuidores de ações ou gatilhos!!! CRIAR COISAS!!! Tentar descobrir até onde iria a toca do coelho!
 
-No colégio com o professor Miagui (não lembro o nome do sujeito só sua etnia) aprendi Cobol e a fazer formulários e a gravar coisas em arquivos \\o/ formulários! pra quem sabe do que estou falando, isso é 80% da coisa...
+No colégio com o professor Miagui (não lembro o nome do sujeito só sua etnia) aprendi Cobol e a fazer formulários e gravar e ler textos em arquivos \\o/ formulários! pra quem sabe do que estou falando, isso é 80% da coisa...
 
 Um mundo completamente novo a ser explorado havia surgido e ele era novo para mim mas também para todo o resto de nos Brasileiros... e isso era facinante!
 
 #### Mas nem tudo são flores...
 
-Obviamente que as coisas não seguiram bem o caminho que se imaginava, primeiramente tive que traçar outras trilhas... acreditava que a careira militar era interessante e começei investindo errado, fui pra ESA virar sargento!
+Obviamente que as coisas não seguiram bem o caminho que se imaginava, primeiramente tive que traçar outras trilhas... acreditava que a careira militar era interessante e começei investindo errado, fui pra ESA virar Sargento!
 
 Depois de um tempo percebi que não era bem aquilo que eu queria fazer, faltava alguma coisa. Talvez História? Filosófia? Contabilidade... WTF?
 
@@ -69,15 +69,15 @@ Quando fiz uma materia entitulada "Programação para Web" as coisas realmente f
 
 Lógica de programação parecia algo fácil de absorver para mim e a forma como organizar e descobrir as inumeras possibilidades de resolver um problema (os tais dos algoritmos) me facinavam e eram como uma lingua nativa! Tudo fazia sentido naquela forma de se expressar.
 
-Sempre disposto a ajudar todos que me procuravam, várias oportunidades de aprendizado e trabalho surgiram, desde de fazer trabalho final de graduação, ate a sisteminhas de cadastros simples complexos de cobrança de dividas.
+Sempre disposto a ajudar todos que me procuravam, várias oportunidades de aprendizado e trabalho surgiram, desde de fazer trabalho final de graduação, ate a sisteminhas de cadastros complexos de cobrança de dívidas e de administração de condomínios.
 
-E antes do termino de minha graduação as coisas já estavam dando certo e tive a oportunidade de ter uma trabalho dito com fixo, carteira assinada e garantia de pagar todas as contas para minha familia (já estava ate casado), e oportunidades de realizar diversos freelances, como pessoa juridica (os chamados PJs) ou como profissional autonomo recolhendo o tal do RPA.
+E antes do termino de minha graduação as coisas já estavam dando certo e tive a oportunidade de ter um trabalho dito com fixo, carteira assinada e garantia de pagar todas as contas e várias oportunidades de realizar diversos freelances, como pessoa jurídica (os chamados PJs) ou como profissional autonômo recolhendo o tal do RPA (Recibo de Pagamento de Autonômo).
 
 Neste universo aprendi muitas coisas legais de banco de dados, de estruturas de servidores e redes, telefonia e muitos e muitas oportunidades de estudar programação, refinando um conhecimento que a cada dia que passou destes 15 anos desde que entrei sem medo na toca do coelho, percebo que ela é muito mais profunda do que se imaginava e isso movimenta a engranagem interna de minha vida.
 
 ### Redes Sociais
 
--   [Facebook](#)
+-   [Facebook](https://fb.com/marcelo.valvassori)
 -   [Twitter](https://twitter.com/_bitts)
 -   [Github](https://github.com/bitts)
 -   [Pintrest](https://br.pinterest.com/marcelobitts/)
@@ -99,10 +99,9 @@ Profissional
 com mais de 18 estabelecimentos, entre filiais, sucursais, agências e outros, empregando mais de 900 pessoas. 
 Entre os seus principais ramos de negócio estão industrias, educação e assistência social. 
 Neste lugar tive a oportunidade de trabalhar a fundo em seu ramo educacional, participando da criação e implantação 
-de sistemas educacionais, ministrando treinamentos, particpando de decições que impactaram diretamente e indiretamente 
+de sistemas educacionais, ministrando treinamentos, participando de decições que impactaram diretamente e indiretamente 
 a vida acadêmica e estrutural de todos os seus colaboradores e estudantes, construindo com muita determinação e 
-dedicação um mundo tecnolôgico para diminuir distâncias entre professores, alunos e técnicos administrativos, elevando 
-as instituições de ensino a patamares nunca atingidos antes.
+dedicação um mundo tecnolôgico para diminuir distâncias entre professores, alunos e técnicos administrativos, elevando as instituições de ensino a patamares nunca atingidos antes.
 
         Atividade: Analista de Sistemas
         - sistemas inscrições em cursos de posgraduações
@@ -115,48 +114,47 @@ as instituições de ensino a patamares nunca atingidos antes.
         - sites de faculdades e colégios
         - criação de relatórios RM TOTVS
         - criação de consultas SQL
-        - sistema academico de interação professor X aluno
+        - sistema acadêmico de interação professor X aluno
         - sistema de catalogação de itens de um museu
 
     
 - Trabalhei em diversas instituições educacionais de enino médio, fundamental, superior, técnico, pós-graduações, mestrados e ate mesmo fundações! entre elas algumas das de maior destaque.
 
-        - Fapas Faculdade Palotina
-        - Colégio Antonio Alves Ramos
-        - Colégio Pallotti
-        - FANDE
-        - SOBRESP
+        - Fapas - Faculdade Palotina de Santa Maria
+        - Colégio Antônio Alves Ramos
+        - Colégio Pallotti Porto Alegre 
+        - Fundae - Fundação Educacional e Cultural para o Desenvolvimento e o Aperfeiçoamento da Educação e da Cultura
+        - Faculdade SOBRESP - Faculdade de Ciências da Saúde
 
         
-- Com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência de no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
+- Com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
 
-        - Riachuelo
-        - CDL
+        - Weiller Assessoria de Cobranças das Lojas Riachuelo
+        - Cobranças CDL/SM - Sistema de Cobranças Integrado para Sócios/Parceiros da Câmara de Dirigentes Logistas de Santa Maria 
 
         
 - Como profissional autonômo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, utilizando alguns de meus conhecimentos contábeis e diversos de meus conhecimentos sociais e de tecnologia.
 
-        - Essas são algumas das coisas que consigo lembrar me ajudaram muito em minha formação:
-        - Sistema ancoradouro
-        - Imobiliária Gallina
-        - Imobiliária Terrazzo
+        - Essas são algumas das coisas que consigo lembrar que me ajudaram muito em minha formação:
+        - Sistema de Condomínios Ancoradouro
+        - Imobiliária Gallina Ltda
+        - Imobiliária Terrazzo Ltda
         - CDL Cobranças
-        - Riachelo Cobranças 
+        - Riachelo Cobranças
         - Consultoria Técnica
         - Cursos de PHP
-        - Cursos de jQuery
-        - Cursos de jQuery UI
-        - Cursos de MySQL
-        - Cursos de Transact-SQL
+        - Cursos de jQuery/jQuery UI
+        - Cursos de MySQL/MariaDB
+        - Cursos de Transact-SQL for Microsoft SQL Server 
 
 
 #### Exército Brasileiro        
-- Ocupando a patente de 2º Tenente na força terrestre do Brasil, Exercito Brasileiro, exercendo o cargo de adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° CTA (1ª Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Região Militar, na Rua dos Andradas, 562, bairro Centro Histórico, cidade de Porto Alegre no estado do Rio Grande do Sul, sendo o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
+- Ocupando a patente de 1º Tenente na força terrestre do Brasil, Exercito Brasileiro, exercendo o cargo de Adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° CTA (1ª Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Região Militar, na Rua dos Andradas, 562, bairro Centro Histórico, cidade de Porto Alegre no estado do Rio Grande do Sul, sendo o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
 
-- Subordinado ao Centro Integrado de Telemática do Exército (CITEx), provê serviços de TI para as Organizações Militares (OMs) de sua área, tais como: 
-Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. Neste incrível centro desempenho o papel de colaborar com as mais de 115 OMs espalhadas pela estado, pelas quais somos responsáveis por prover os mais diversos serviços de tecnologia e com os meus conhecimentos adquiridos ao longo de diversos anos de muita prática e estudos, chegar as melhores soluções para a constante evolução tecnologica do País.
+- Subordinado ao Centro Integrado de Telemática do Exército (CITEx), que provê serviços de TI para as Organizações Militares (OMs) de sua área, tais como: 
+Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. Neste incrível Centro desempenhei o papel de prestar suporte a mais de 115 OMs espalhadas pela estado do Rio Grande do Sul, pelas quais eu era responsável por prover os mais diversos serviços de tecnologia e com os meus conhecimentos adquiridos ao longo de diversos anos de muita prática e estudos, chegar as melhores soluções para a constante evolução tecnologica do País, agora contribuindo de forma realmente relevante para o povo brasileiro.
 
-- Como Analista de Infraestrutura dentro as forças armadas desempenhei o papel de suporte nível 2 do ITIL onde exatamente fazia isso aqui:
+- Como Analista de Infraestrutura dentro das forças armadas desempenhei o papel de suporte nível 2 do ITIL (em uma versão levente distorcida do mesmo) onde exatamente fazia (segundo as documentações) isso aqui:
 
 #### SUPORTE NÍVEL 2 - ITIL
 
