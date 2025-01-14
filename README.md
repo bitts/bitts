@@ -15,7 +15,7 @@ For almost a decade I worked at Sociedade Vicente Pallotti, a multinational of P
 As an enthusiast, I taught training and courses on web systems development using PHP language and frameworks such as Bootstrap, jQuery, jQuery UI. In addition to SQL and Database courses.
 
 ### How to contact me
-For quick questions, get in touch via email (marcelo.valvassori@gmail.com) and I will probably get back to you as soon as possible. If a longer discussion is needed, we schedule a video conference.
+For quick questions, get in touch via email (bitts@passport.com) and I will probably get back to you as soon as possible. If a longer discussion is needed, we schedule a video conference.
 
 ### Preferred Work Style
 I prefer a lot of collaboration. Typically this means 1-on-1, team meetings and pairing. Normally, I just need a quiet environment when I'm coding. I use my calendar to keep things balanced, if it's not on my calendar, I can get lost.
@@ -61,7 +61,7 @@ Como entusiasta, ministrei treinamentos e cursos de desenvolvimento de sistemas 
 
 
 ### Como entrar em contato comigo
-Para perguntas rápidas, entre em contato através de e-mail (marcelo.valvassori@gmail.com) e provavelmente entrarei em contato com você o mais rápido possível. Se uma discussão mais longa for necessária, marcamos uma videoconferência.
+Para perguntas rápidas, entre em contato através de e-mail (bitts@passport.com) e provavelmente entrarei em contato com você o mais rápido possível. Se uma discussão mais longa for necessária, marcamos uma videoconferência.
 
 
 ### Estilo de Trabalho Preferido
