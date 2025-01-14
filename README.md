@@ -6,7 +6,7 @@
 
 I am from Resende, located in the state of Rio de Janeiro - Brazil, but I received a Bachelor's degree in Systems Analysis from Centro Universitário Franciscano (currently UFN - Universidade Franciscana) located in Santa Maria, in the heart of the state of Rio Grande do Sul.
 
-I am currently 1º Tenente of the Temporary Technical Officers of the Brazilian Army and I perform the role of Adjunct to the Operations Management Section, where I work in level 2 support (ITIL-Ex) and technical supervision of telecommunications contracts, at the 1º Telematics Center Area - 1º CTA, located at the Headquarters of the Southern Military Command in Porto Alegre - Rio Grande do Sul.
+I was recently 1st Tenente of the Temporary Technical Officers of the Brazilian Army and performed the role of Adjunct to the Operations Management Section, where I was working in level 2 support (ITIL-Ex) and technical supervision of telecommunications contracts, at the 1º Telematics Center Area - 1º CTA, located at the Headquarters of the Southern Military Command in Porto Alegre - Rio Grande do Sul.
 
 I have extensive experience in the custom systems development market and have worked in the educational, industrial, collections, condominium administration, real estate, financial and accounting fields, working from the managerial level, requirements gathering, business understanding, development, implementation, consulting and support.
 
@@ -50,7 +50,7 @@ This README is a work in progress and I will continue to update it as I learn ne
 
 Eu sou natural de Resende, localizado no estado do Rio de Janeiro - Brasil, mas recebi o título de Bacharel em Analise de Sistemas pelo Centro Universitário Franciscano (atualmente UFN - Universidade Franciscana) localizado em Santa Maria, no coração do estado do Rio Grande do Sul. 
 
-Atualmente sou 1º Tenente do Quadro de Oficiais Técnicos Temporário do Exército Brasileiro e desempenho a função de Adjunto a Seção de Gerenciamento das Operações, onde atuo em suporte nível 2 (ITIL-Ex) e fiscalização técnica de contratos de telecomunicações, no 1º Centro de Telemática de Área - 1° CTA, localizado no Quartel General do Comando Militar do Sul em Porto Alegre - Rio Grande do Sul.
+Recentemente eu fui 1º Tenente do Quadro de Oficiais Técnicos Temporário do Exército Brasileiro e desempenhava a função de Adjunto a Seção de Gerenciamento das Operações, onde eu atuava em suporte nível 2 (ITIL-Ex) e fiscalização técnica de contratos de telecomunicações, no 1º Centro de Telemática de Área - 1° CTA, localizado no Quartel General do Comando Militar do Sul em Porto Alegre - Rio Grande do Sul.
 
 Possuo grande experiência no mercado de desenvolvimento de sistemas personalizados e já atuei no ramo educacional, indústrial, cobranças, administração de condomínios, imobiliário, financeiro e contábil, atuando desde o nível gerencial, levantamento de requisitos, compreensão do negócio, desenvolvimento, implantação, consultoria e suporte.
 
