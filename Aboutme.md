@@ -1,7 +1,7 @@
 WebCurrículo
 ============
 
-[Marcelo Valvassori Bittencourt](#) | <marcelo.valvassori@gmail.com>
+[Marcelo Bittencourt](#) | <bitts@passport.com>
 
 
 ------------
@@ -53,11 +53,11 @@ Um mundo completamente novo a ser explorado havia surgido e ele era novo para mi
 
 Obviamente que as coisas não seguiram bem o caminho que se imaginava, primeiramente tive que traçar outras trilhas... acreditava que a careira militar era interessante e começei investindo errado, fui pra ESA virar Sargento!
 
-Depois de um tempo percebi que não era bem aquilo que eu queria fazer, faltava alguma coisa. Talvez História? Filosófia? Contabilidade... WTF?
+Depois de um tempo percebi que não era bem aquilo que eu queria fazer, faltava alguma coisa. Talvez História? Filosófia? Contabilidade? Psicologia? ... WTF?
 
-Enfim isso mesmo, achei que esse poderia ser o caminho. Fui para uma faculdade de respeito! Encontrei empregos com pessoas legais e ate ganhei dinheiro com isso sendo contabilista... mas faltava alguma coisa.
+Enfim isso mesmo, achei que esse poderia ser o caminho. Fui para uma faculdade de respeito! Encontrei empregos com pessoas legais e ate ganhei dinheiro sendo contabilista... mas faltava alguma coisa.
 
-Nunca tarde para equilibrar os caminhos da força e então um novo bum surgiu! E com ele novas oportunidades...
+Nunca é tarde para equilibrar os caminhos da força e então um novo bum surgiu! E com ele novas oportunidades...
 
 Ingressei em um curso de Sistemas de Informações e descrobri que aquele mundo sim era o que eu me encaixava.
 
@@ -65,7 +65,7 @@ Em pouco tempo aquilo fazia parte de mim... e o resto é história.
 
 #### E ate onde vai o toca do coelho?
 
-Quando fiz uma materia entitulada "Programação para Web" as coisas realmente ficaram legais na faculdade, e era uma disciplina optativa, fora do currículo regular, não obrigatória mas que achei muito muito legal e peguei com facilidade, isso era o tal do PHP4!
+Quando fiz uma materia entitulada "Programação para Web" as coisas realmente ficaram legais na faculdade, e era uma disciplina optativa, fora do currículo regular, não obrigatória mas que achei muito muito legal e peguei com facilidade, isso era o tal do PHP4!!! 
 
 Lógica de programação parecia algo fácil de absorver para mim e a forma como organizar e descobrir as inumeras possibilidades de resolver um problema (os tais dos algoritmos) me facinavam e eram como uma lingua nativa! Tudo fazia sentido naquela forma de se expressar.
 
@@ -77,17 +77,11 @@ Neste universo aprendi muitas coisas legais de banco de dados, de estruturas de 
 
 ### Redes Sociais
 
--   [Facebook](https://fb.com/marcelo.valvassori)
--   [Twitter](https://twitter.com/_bitts)
 -   [Github](https://github.com/bitts)
--   [Pintrest](https://br.pinterest.com/marcelobitts/)
--   [Linkedin](https://www.linkedin.com/in/marcelo-valvassori-bittencourt-30719639)
--   [Instagran](https://www.instagram.com/marcelo.valvassori.bittencourt/)
 -   [Stackoverflow](http://stackoverflow.com/users/6535200/bitts?tab=profile)
--   [Tumblr](http://marcelovalvassori.tumblr.com/)
 -   [Codepen](http://codepen.io/bitts)
 -   [openuserjs.org](https://openuserjs.org/users/marcelo.valvassori)
--   [Youtube](https://www.youtube.com/user/MarceloValvassori)
+-   [Youtube](https://www.youtube.com/user/mvbitts)
 
 
 Profissional 
@@ -149,10 +143,10 @@ dedicação um mundo tecnolôgico para diminuir distâncias entre professores, a
 
 
 #### Exército Brasileiro        
-- Ocupando a patente de 1º Tenente na força terrestre do Brasil, Exercito Brasileiro, exercendo o cargo de Adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° CTA (1ª Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Região Militar, na Rua dos Andradas, 562, bairro Centro Histórico, cidade de Porto Alegre no estado do Rio Grande do Sul, sendo o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
+- Ocupei a patente de 1º Tenente na força terrestre do Brasil, Exercito Brasileiro, exercendo o cargo de Adjunto a Seção de Gerenciamento das Operações - SGO, na função de Analista de Infraestutura e Suporte nível 2 ITIL no 1° CTA (1ª Centro de Telemática de Área), localizado junto ao Quartel General da 3ª Região Militar, na Rua dos Andradas, 562, bairro Centro Histórico, cidade de Porto Alegre no estado do Rio Grande do Sul, sendo o órgão de execução da infraestrutura de Tecnologia da Informação (TI) do Exército Brasileiro, no âmbito do Comando Militar do Sul (CMS). 
 
 - Subordinado ao Centro Integrado de Telemática do Exército (CITEx), que provê serviços de TI para as Organizações Militares (OMs) de sua área, tais como: 
-Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. Neste incrível Centro desempenhei o papel de prestar suporte a mais de 115 OMs espalhadas pela estado do Rio Grande do Sul, pelas quais eu era responsável por prover os mais diversos serviços de tecnologia e com os meus conhecimentos adquiridos ao longo de diversos anos de muita prática e estudos, chegar as melhores soluções para a constante evolução tecnologica do País, agora contribuindo de forma realmente relevante para o povo brasileiro.
+Acesso à Internet, Hospedagem de Sistemas, Correio Eletrônico, entre outros. Neste Centro desempenhei o papel de prestar suporte a mais de 115 OMs espalhadas pela estado do Rio Grande do Sul, pelas quais eu era responsável por prover os mais diversos serviços de tecnologia e com os meus conhecimentos adquiridos ao longo de diversos anos de muita prática e estudos, chegar as melhores soluções para a constante evolução tecnologica do País, agora contribuindo de forma realmente relevante para o povo brasileiro.
 
 - Como Analista de Infraestrutura dentro das forças armadas desempenhei o papel de suporte nível 2 do ITIL (em uma versão levente distorcida do mesmo) onde exatamente fazia (segundo as documentações) isso aqui:
 
@@ -228,6 +222,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - JSON
 - Webservices
 - API
+- Google App Script
 
 #### Serviços
 
@@ -290,7 +285,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 
 #### E-mail
 
-[marcelo.valvassori@gmail.com](mailto:marcelo.valvassori@gmail.com)
+[bitts@passport.com](mailto:bitts@passport.com)
 
 
 #### Telefone / Whatsapp
@@ -298,7 +293,4 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 +55 (55) 98142-0885
 
 
-#### Skype
-
-[bitts@passport.com](skype:bitts@passport.com?call)
 
