@@ -1,6 +1,7 @@
 ![Total de visualizações](https://komarev.com/ghpvc/?username=bitts&color=green)
 
-### About Me 👋
+
+### 💎 About Me
 
 #[Curriculum](https://github.com/bitts/bitts/blob/main/Aboutme.md)
 
@@ -14,37 +15,37 @@ For almost a decade I worked at Sociedade Vicente Pallotti, a multinational of P
 
 As an enthusiast, I taught training and courses on web systems development using PHP language and frameworks such as Bootstrap, jQuery, jQuery UI. In addition to SQL and Database courses.
 
-### How to contact me
+### ☎️ How to contact me
 For quick questions, get in touch via email (bitts@passport.com) and I will probably get back to you as soon as possible. If a longer discussion is needed, we schedule a video conference.
 
-### Preferred Work Style
+### 🚶 Preferred Work Style
 I prefer a lot of collaboration. Typically this means 1-on-1, team meetings and pairing. Normally, I just need a quiet environment when I'm coding. I use my calendar to keep things balanced, if it's not on my calendar, I can get lost.
 
 I try not to force my preconceived notions of what "works" on people. Different situations call for different solutions. That's the essence I believe.
 
 If you're afraid to ask tough questions or express unpopular opinions, then you're not doing your best. I am committed to creating an environment where everyone feels comfortable speaking their minds.
 
-### what motivates me
+### 🦾 what motivates me
 I want to improve everything around me. I'm a perfectionist, but I realize that perfection is impossible, so I try to improve every day. It's important for me to understand the big picture in order to know the direction I should go.
 
-### what demotivates me
+### 🐍 what demotivates me
 Doing things to do is a waste of time. Everything must have a purpose.
 
-### My values (and what I value in others)
+### ✨ My values (and what I value in others)
 Intentionality - I admire people who put things first and find they tend to be more successful.
 
 Understanding - Seeking to understand first is a critical part of my success.
 
 Teamwork - this is how you make the whole greater than the sum of the parts.
 
-### Other
+### 🧮 Other
 I value feedback, so feel free to request or give feedback from me whenever you like.
 
 This README is a work in progress and I will continue to update it as I learn new things.
 
 ######################################################################################################
 
-### Sobre mim 👋
+### 💎 Sobre mim 
 
 #[Curriculum](https://github.com/bitts/bitts/blob/main/Aboutme.md)
 
@@ -60,11 +61,11 @@ Também lá obtive formação técnica de personalização de Sistemas de Gestã
 Como entusiasta, ministrei treinamentos e cursos de desenvolvimento de sistemas web com a utilização de linguagem PHP e frameworks como Bootstrap, jQuery, jQuery UI. Além de cursos de SQL e Banco de Dados.
 
 
-### Como entrar em contato comigo
+### ☎️ Como entrar em contato comigo
 Para perguntas rápidas, entre em contato através de e-mail (bitts@passport.com) e provavelmente entrarei em contato com você o mais rápido possível. Se uma discussão mais longa for necessária, marcamos uma videoconferência.
 
 
-### Estilo de Trabalho Preferido
+### 🚶 Estilo de Trabalho Preferido
 Eu prefiro muita colaboração. Normalmente, isso significa 1-contra-1, reuniões de equipe e emparelhamento. Normalmente, só preciso de um ambiente silencioso quando estou codando. Eu uso meu calendário para manter as coisas equilibradas, se não estiver no meu calendário, posso me perder.
 
 
@@ -74,15 +75,15 @@ Tento não forçar minhas noções preconcebidas do que "funciona" nas pessoas. 
 Se você tem medo de fazer perguntas difíceis ou expressar opiniões impopulares, então não está fazendo o que seu melhor. Estou comprometido em criar um ambiente onde todos se sintam confortáveis em falar o que pensam.
 
 
-### O que me motiva
+### 🦾 O que me motiva
 Eu quero melhorar tudo ao meu redor. Sou perfeccionista, mas percebo que a perfeição é impossível, então procuro melhorar a cada dia. É importante para mim entender o quadro geral para saber a direção que devo seguir.
 
 
-### O que me desmotiva
+### 🐍 O que me desmotiva
 Fazer coisas por fazer é uma perda de tempo. Tudo deve ter um propósito.
 
 
-### Meus valores (e o que valorizo nos outros)
+### ✨ Meus valores (e o que valorizo nos outros)
 Intencionalidade - admiro as pessoas que priorizam as coisas e descobrem que tendem a ter mais sucesso.
 
 Compreensão - Procurar primeiro compreender é uma parte crítica do meu sucesso.
@@ -90,26 +91,12 @@ Compreensão - Procurar primeiro compreender é uma parte crítica do meu sucess
 Trabalho em equipe - é assim que você torna o todo maior do que a soma das partes.
 
 
-### Outro
+### 🧮 Outro
 Eu valorizo o feedback, então fique à vontade para solicitar ou dar feedback de mim quando quiser.
 
 
 Este README é um trabalho em andamento e continuarei a atualizá-lo à medida que aprendo coisas novas.
 
 
-<!--
-**bitts/bitts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
