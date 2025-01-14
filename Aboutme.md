@@ -97,49 +97,56 @@ de sistemas educacionais, ministrando treinamentos, participando de decições q
 a vida acadêmica e estrutural de todos os seus colaboradores e estudantes, construindo com muita determinação e 
 dedicação um mundo tecnolôgico para diminuir distâncias entre professores, alunos e técnicos administrativos, elevando as instituições de ensino a patamares nunca atingidos antes.
 
-        Atividade: Analista de Sistemas
-        - sistemas inscrições em cursos de posgraduações
-        - sistema de gerenciamento de processos seletivos
-        - sistema de divulgações de resultados de simulados
-        - sistema de gerenciamento de eventos presenciais
-        - sistema de criação de questionários e relatórios 
-        - sistema de criação de grade de horários academicos
-        - sistema de matricula de alunos
-        - sites de faculdades e colégios
-        - criação de relatórios RM TOTVS
-        - criação de consultas SQL
-        - sistema acadêmico de interação professor X aluno
-        - sistema de catalogação de itens de um museu
-
+|              Atividade: Analista de Sistemas             |
+| :------------------------------------------------------- |
+| Sistemas inscrições em cursos de posgraduações           |
+| Sistema de gerenciamento de processos seletivos          |
+| Sistema de divulgações de resultados de simulados        |
+| Sistema de gerenciamento de eventos presenciais          |
+| Sistema de criação de questionários e relatórios         |
+| Sistema de criação de grade de horários academicos       |
+| Sistema de matricula de alunos                           |
+| Sites de faculdades e colégios                           |
+| Criação de relatórios RM TOTVS                           |
+| Criação de consultas SQL                                 |
+| Sistema acadêmico de interação professor X aluno         |
+| Sistema de catalogação de itens de um museu              |
+        
     
-- Trabalhei em diversas instituições educacionais de enino médio, fundamental, superior, técnico, pós-graduações, mestrados e ate mesmo fundações! entre elas algumas das de maior destaque.
+- Trabalhei em diversas instituições educacionais de ensino médio, fundamental, superior, técnico, pós-graduações, mestrados e ate mesmo fundações! entre elas algumas das de maior destaque.
 
-        - Fapas - Faculdade Palotina de Santa Maria
-        - Colégio Antônio Alves Ramos
-        - Colégio Pallotti Porto Alegre 
-        - Fundae - Fundação Educacional e Cultural para o Desenvolvimento e o Aperfeiçoamento da Educação e da Cultura
-        - Faculdade SOBRESP - Faculdade de Ciências da Saúde
+|              Instituições / Empresas                     |
+| :------------------------------------------------------- |
+| Fapas - Faculdade Palotina de Santa Maria                |
+| Colégio Antônio Alves Ramos                              |
+| Colégio Pallotti Porto Alegre                            |
+| Fundae - Fundação Educacional e Cultural para o Desenvolvimento e o Aperfeiçoamento da Educação e da Cultura |
+| Faculdade SOBRESP - Faculdade de Ciências da Saúde       |
 
         
 - Com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
 
-        - Weiller Assessoria de Cobranças das Lojas Riachuelo
-        - Cobranças CDL/SM - Sistema de Cobranças Integrado para Sócios/Parceiros da Câmara de Dirigentes Logistas de Santa Maria 
+|              Cobranças                                   |
+| :------------------------------------------------------- |
+| Weiller Assessoria de Cobranças das Lojas Riachuelo      |
+| Cobranças CDL/SM - Sistema de Cobranças Integrado para Sócios/Parceiros da Câmara de Dirigentes Logistas de Santa Maria |
 
         
 - Como profissional autonômo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, utilizando alguns de meus conhecimentos contábeis e diversos de meus conhecimentos sociais e de tecnologia.
+    Essas são algumas das coisas que consigo lembrar que me ajudaram muito em minha formação:
 
-        - Essas são algumas das coisas que consigo lembrar que me ajudaram muito em minha formação:
-        - Sistema de Condomínios Ancoradouro
-        - Imobiliária Gallina Ltda
-        - Imobiliária Terrazzo Ltda
-        - CDL Cobranças
-        - Riachelo Cobranças
-        - Consultoria Técnica
-        - Cursos de PHP
-        - Cursos de jQuery/jQuery UI
-        - Cursos de MySQL/MariaDB
-        - Cursos de Transact-SQL for Microsoft SQL Server 
+|              Autonômo                                    |
+| :------------------------------------------------------- |
+| Sistema de Condomínios Ancoradouro                      |
+| Imobiliária Gallina Ltda                                |
+| Imobiliária Terrazzo Ltda                               |
+| CDL Cobranças                                           |
+| Riachelo Cobranças                                      |
+| Consultoria Técnica                                     |
+| Cursos de PHP                                           |
+| Cursos de jQuery/jQuery UI                              |
+| Cursos de MySQL/MariaDB                                 |
+| Cursos de Transact-SQL for Microsoft SQL Server         |
 
 
 #### Exército Brasileiro        
