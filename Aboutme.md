@@ -273,7 +273,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 
 #### Outras coisas que domino
 
-- [Totvs Educacional](https://produtos.totvs.com/produto/totvs-educacional/)
+- [Totvs Educacional](https://produtos.totvs.com/produto/educacional/)
 - ITIL
 - [Joomla!](https://github.com/bitts/PagTesouro)
 - [MySQL Workbench](https://github.com/mysql/mysql-workbench/releases)
@@ -282,8 +282,8 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - Design Patterns
 - GIT
 - SVN
-- Arduino
-- VMWare
+- [Arduino](https://www.arduino.cc/)
+- [VMWare](https://www.vmware.com/)
 - Secure Shell
 - [Zabbix](https://github.com/bitts/zabbix_joomla)
 
