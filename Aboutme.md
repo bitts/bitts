@@ -1,7 +1,7 @@
 WebCurrículo
 ============
 
-[Marcelo Bittencourt](#) | <bitts@passport.com>
+Marcelo Bittencourt (bitts@passport.com)
 
 
 ------------
@@ -260,14 +260,14 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 
 #### Editores/IDE de Código Fonte que domino
 
-- VSCode
-- NetBeans
+- [VSCode](https://code.visualstudio.com/)
+- [NetBeans](https://netbeans.apache.org/)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
-- Notepadqq
-- Nano
-- Kate
+- [Notepadqq](https://notepadqq.com/)
+- [Nano](https://www.nano-editor.org/)
+- [Kate](https://kate-editor.org/)
 - [Sublime](https://www.sublimetext.com/)
-- VI
+- [VI](https://ex-vi.sourceforge.net/)
 - [VIM](https://github.com/vim/vim)
 
 
