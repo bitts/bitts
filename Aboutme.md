@@ -300,4 +300,20 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 +55 (55) 98142-0885
 
 
+https://web.archive.org/web/20181029024740/http://fapas.edu.br/vestibular/
+
+https://web.archive.org/web/20171023192626/http://www.fapas.edu.br/vestibular/
+
+https://web.archive.org/web/20170628033030/http://fapas.edu.br/vestibular/
+
+https://web.archive.org/web/20161115182702/http://www.fapas.edu.br/vestibular/
+
+https://web.archive.org/web/20160527153405/http://www.pallotti.com.br/
+
+https://web.archive.org/web/20160109170153/http://fapas.edu.br/
+
+
+
+
+
 
