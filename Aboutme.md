@@ -6,7 +6,7 @@ Marcelo Bittencourt (bitts@passport.com)
 
 ------------
 
--   [Sobre mim](#sobre-mim-1)
+-   [Sobre mim](#sobre-mim)
     -   [Como diabos vim para neste universo?](#como-diabos-vim-para-neste-universo)
     -   [Mas nem tudo são flores...](#mas-nem-tudo-são-flores)
     -   [E ate onde vai o toca do coelho?](#e-ate-onde-vai-o-toca-do-coelho)
@@ -22,9 +22,9 @@ Marcelo Bittencourt (bitts@passport.com)
     -   [Tecnologias para Internet](#tecnologias-para-internet)
     -   [Serviços](#servi%C3%A7os)
     -   [Sistemas Operacionais](#sistemas-operacionais)
-    -   [Editores de código-fonte que domino](#editores-de-c%C3%B3digo-fonte-que-domino)
+    -   [Editores de código-fonte que domino](#editoreside-de-c%C3%B3digo-fonte-que-domino)
     -   [Outras coisas que domino](#outras-coisas-que-domino)
--   [Contatos](#contact)
+-   [Contatos](#contatos)
     -   [Email](#e-mail)
     -   [Telefone](#telefone)
     -   [Skype](#skype)
@@ -123,6 +123,17 @@ dedicação um mundo tecnolôgico para diminuir distâncias entre professores, a
 | Fundae - Fundação Educacional e Cultural para o Desenvolvimento e o Aperfeiçoamento da Educação e da Cultura |
 | Faculdade SOBRESP - Faculdade de Ciências da Saúde       |
 
+
+|   Alguns Web Sites que colaborei criando toda parte que envolve programação   |
+| :------------------------------------------------------- |
+| [Site Vestibular FAPAS](https://web.archive.org/web/20181029024740/http://fapas.edu.br/vestibular/) |
+| [Site Vestibular FAPAS](https://web.archive.org/web/20171023192626/http://www.fapas.edu.br/vestibular/) |
+| [Site Vestibular FAPAS](https://web.archive.org/web/20170628033030/http://fapas.edu.br/vestibular/) |
+| [Site Vestibular FAPAS](https://web.archive.org/web/20161115182702/http://www.fapas.edu.br/vestibular/) |
+| [Sociedade Vicente Pallotti](https://web.archive.org/web/20160527153405/http://www.pallotti.com.br/) |
+| [Faculdade Palotina](https://web.archive.org/web/20160109170153/http://fapas.edu.br/) |
+| [Museu Vicente Pallotti](https://web.archive.org/web/20171202135006/http://www.pallotti.com.br/museu/) |
+| Obs.: 😔 Infelizmente esses foram os únicos projetos que ainda constavam no https://web.archive.org |
         
 - Com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
 
@@ -132,7 +143,7 @@ dedicação um mundo tecnolôgico para diminuir distâncias entre professores, a
 | Cobranças CDL/SM - Sistema de Cobranças Integrado para Sócios/Parceiros da Câmara de Dirigentes Logistas de Santa Maria |
 
         
-- Como profissional autonômo eu tive a oportunidade de trabalho com sistemas dos mais diversos temas, utilizando alguns de meus conhecimentos contábeis e diversos de meus conhecimentos sociais e de tecnologia.
+- Como profissional autonômo eu tive a oportunidade de trabalhar com sistemas dos mais diversos temas, utilizando alguns de meus conhecimentos contábeis e diversos de meus conhecimentos sociais e de tecnologia.
     Essas são algumas das coisas que consigo lembrar que me ajudaram muito em minha formação:
 
 |              Autonômo                                    |
@@ -300,19 +311,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 +55 (55) 98142-0885
 
 
-https://web.archive.org/web/20181029024740/http://fapas.edu.br/vestibular/
 
-https://web.archive.org/web/20171023192626/http://www.fapas.edu.br/vestibular/
-
-https://web.archive.org/web/20170628033030/http://fapas.edu.br/vestibular/
-
-https://web.archive.org/web/20161115182702/http://www.fapas.edu.br/vestibular/
-
-https://web.archive.org/web/20160527153405/http://www.pallotti.com.br/
-
-https://web.archive.org/web/20160109170153/http://fapas.edu.br/
-
-https://web.archive.org/web/20171202135006/http://www.pallotti.com.br/museu/
 
 
 
