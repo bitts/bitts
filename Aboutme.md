@@ -312,6 +312,8 @@ https://web.archive.org/web/20160527153405/http://www.pallotti.com.br/
 
 https://web.archive.org/web/20160109170153/http://fapas.edu.br/
 
+https://web.archive.org/web/20171202135006/http://www.pallotti.com.br/museu/
+
 
 
 
