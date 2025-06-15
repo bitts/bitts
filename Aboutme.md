@@ -81,7 +81,7 @@ Neste universo aprendi muitas coisas legais de banco de dados, de estruturas de 
 -   [Stackoverflow](http://stackoverflow.com/users/6535200/bitts?tab=profile)
 -   [Codepen](http://codepen.io/bitts)
 -   [openuserjs.org](https://openuserjs.org/users/marcelo.valvassori)
--   [Youtube](https://www.youtube.com/user/mvbitts)
+-   [Youtube](https://www.youtube.com/@mvbitts)
 
 
 Profissional 
