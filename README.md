@@ -1,6 +1,6 @@
 ### 💎 Sobre mim 
 
-#[Curriculum](https://github.com/bitts/bitts/blob/main/SKILLS.md)
+#[Currículo Técnico](https://github.com/bitts/bitts/blob/main/SKILLS.md)
 
 Eu sou natural de Resende, localizado no estado do Rio de Janeiro - Brasil, mas recebi o título de Bacharel em Analise de Sistemas pelo Centro Universitário Franciscano (atualmente UFN - Universidade Franciscana) localizado em Santa Maria, no coração do estado do Rio Grande do Sul. 
 
