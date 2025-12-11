@@ -80,7 +80,7 @@ dedicação um mundo tecnolôgico para diminuir distâncias entre professores, a
 | [Site Vestibular FAPAS](https://web.archive.org/web/20161115182702/http://www.fapas.edu.br/vestibular/) |
 | [Sociedade Vicente Pallotti](https://web.archive.org/web/20160527153405/http://www.pallotti.com.br/) |
 | [Faculdade Palotina](https://web.archive.org/web/20160109170153/http://fapas.edu.br/) |
-| [Museu Vicente Pallotti](https://web.archive.org/web/20171202135006/http://www.pallotti.com.br/museu/) |
+| [Museu Vicente Pallotti](https://www.pallotti.com.br/museu/) |
 | Obs.: 😔 Infelizmente esses foram os únicos projetos que ainda constavam no https://web.archive.org |
         
 - Com cobranças tive a aportunidade de aprender e trabalhar com pessoas visiorarias que possuiam mais de 30 anos de experiência no ramo e para eles criei sistemas especialistas, focado na suas experiências com o melhor do que a tecnologia web pode aferecer.
