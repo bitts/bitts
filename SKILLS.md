@@ -188,7 +188,7 @@ O SLA proativo garante a segurança e a evolução tecnológica da infraestrutur
 - JSON
 - Webservices
 - API
-- Google App Script
+- Google Apps Script
 
 #### Serviços
 
